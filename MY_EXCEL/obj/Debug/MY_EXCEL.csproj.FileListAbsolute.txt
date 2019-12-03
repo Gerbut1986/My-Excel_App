@@ -1,0 +1,10 @@
+D:\Software Development\C# All Persons\Анастасия (Киев)\MY_EXCEL\MY_EXCEL\bin\Debug\MY_EXCEL.exe.config
+D:\Software Development\C# All Persons\Анастасия (Киев)\MY_EXCEL\MY_EXCEL\bin\Debug\MY_EXCEL.exe
+D:\Software Development\C# All Persons\Анастасия (Киев)\MY_EXCEL\MY_EXCEL\bin\Debug\MY_EXCEL.pdb
+D:\Software Development\C# All Persons\Анастасия (Киев)\MY_EXCEL\MY_EXCEL\obj\Debug\MY_EXCEL.csprojAssemblyReference.cache
+D:\Software Development\C# All Persons\Анастасия (Киев)\MY_EXCEL\MY_EXCEL\obj\Debug\MY_EXCEL.Form1.resources
+D:\Software Development\C# All Persons\Анастасия (Киев)\MY_EXCEL\MY_EXCEL\obj\Debug\MY_EXCEL.Properties.Resources.resources
+D:\Software Development\C# All Persons\Анастасия (Киев)\MY_EXCEL\MY_EXCEL\obj\Debug\MY_EXCEL.csproj.GenerateResource.cache
+D:\Software Development\C# All Persons\Анастасия (Киев)\MY_EXCEL\MY_EXCEL\obj\Debug\MY_EXCEL.csproj.CoreCompileInputs.cache
+D:\Software Development\C# All Persons\Анастасия (Киев)\MY_EXCEL\MY_EXCEL\obj\Debug\MY_EXCEL.exe
+D:\Software Development\C# All Persons\Анастасия (Киев)\MY_EXCEL\MY_EXCEL\obj\Debug\MY_EXCEL.pdb
